@@ -1,0 +1,5 @@
+﻿  main.cpp
+  triangle.cpp
+  Generating Code...
+E:\CPP_Practices\InheritanceTest\TestingInhertiance\triangle.cpp(7,13): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+  TestingInhertiance.vcxproj -> E:\CPP_Practices\InheritanceTest\TestingInhertiance\Debug\TestingInhertiance.exe
